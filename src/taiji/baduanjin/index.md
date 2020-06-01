@@ -19,15 +19,20 @@ group:
 - 百会穴轻轻拎起
 - 两眼平视，唇齿轻合，舌抵上腭，下颌微收
 - 项自然竖直，松肩坠肘
-- 四个指肚轻轻贴在大腿外侧，虎口圆，掌心空
+- 十个指肚轻轻贴在大腿外侧，虎口圆，掌心空
 - 松腰松胯，松膝松踝
 
+1. 并步站立
+   ![image](http://taiji.zhengjinshou.cn/baduanjin/103033.jpg)
 1. 左脚开立，与肩同宽
+   ![image](http://taiji.zhengjinshou.cn/baduanjin/103034.jpg)
 2. 两掌内旋，掌心向后
+   ![image](http://taiji.zhengjinshou.cn/baduanjin/103035.jpg)
 3. 两手抬起约 45°，与胯同高
+   ![image](http://taiji.zhengjinshou.cn/baduanjin/103036.jpg)
 4. 屈膝下抱
+   ![image](http://taiji.zhengjinshou.cn/baduanjin/103037.jpg)
 5. 深呼吸三次（吸气时收腹提肛，呼气时丹田前鼓，命门后撑）
-   ![image](http://taiji.zhengjinshou.cn/baduanjin/103038.jpg)
 
 ### 第一段：双手托天理三焦
 
@@ -242,3 +247,16 @@ group:
 - 师父辛苦了
 - 礼毕（师父先落下，学生再落下）
 - 下课（弯腰鞠躬，然后拍三下）
+
+
+### 视频
+
+```tsx | inline
+import React from 'react';
+import { Video } from 'dumi-lib';
+
+export default () => <>
+<Video url="http://taiji.zhengjinshou.cn/baduanjin/video01.mp4" title="八段锦01" />
+<Video url="http://taiji.zhengjinshou.cn/baduanjin/video02.mp4" title="八段锦02" />
+</>;
+```

@@ -24,7 +24,9 @@
     ]
   },
   "dependencies": {
-    "react": "^16.12.0"
+    "antd": "^4.3.0",
+    "react": "^16.12.0",
+    "video-react": "^0.14.1"
   },
   "devDependencies": {
     "@umijs/preset-react": "1.x",

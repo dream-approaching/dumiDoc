@@ -1,1 +1,1 @@
-export { default as Baduanjin } from './taiji/baduanjin';
+export { default as Video } from './components/Video';

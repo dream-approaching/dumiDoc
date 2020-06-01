@@ -15,6 +15,7 @@
     },
     "allowSyntheticDefaultImports": true
   },
+  "include": ["typing"],
   "exclude": [
     "node_modules",
     "lib",
