@@ -1,4 +1,3 @@
-
 ## 首页
 
-暂无
+![image](http://taiji.zhengjinshou.cn/bafawubu/test.png)

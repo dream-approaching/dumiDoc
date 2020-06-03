@@ -26,13 +26,13 @@ group:
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103033.jpg)
 1. 左脚开立，与肩同宽
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103034.jpg)
-2. 两掌内旋，掌心向后
+1. 两掌内旋，掌心向后
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103035.jpg)
-3. 两手抬起约 45°，与胯同高
+1. 两手抬起约 45°，与胯同高
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103036.jpg)
-4. 屈膝下抱
+1. 屈膝下抱
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103037.jpg)
-5. 深呼吸三次（吸气时收腹提肛，呼气时丹田前鼓，命门后撑）
+1. 深呼吸三次（吸气时收腹提肛，呼气时丹田前鼓，命门后撑）
 
 ### 第一段：双手托天理三焦
 
@@ -248,15 +248,22 @@ group:
 - 礼毕（师父先落下，学生再落下）
 - 下课（弯腰鞠躬，然后拍三下）
 
-
 ### 视频
 
 ```tsx | inline
 import React from 'react';
 import { Video } from 'dumi-lib';
 
-export default () => <>
-<Video url="http://taiji.zhengjinshou.cn/baduanjin/video01.mp4" title="八段锦01" />
-<Video url="http://taiji.zhengjinshou.cn/baduanjin/video02.mp4" title="八段锦02" />
-</>;
+export default () => (
+  <>
+    <Video
+      url="http://taiji.zhengjinshou.cn/baduanjin/video01.mp4"
+      title="八段锦01"
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/baduanjin/video02.mp4"
+      title="八段锦02"
+    />
+  </>
+);
 ```
