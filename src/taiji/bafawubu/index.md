@@ -191,17 +191,94 @@
 
 ##### 19. 退步左右捋势
 
+- 右转 30° 摆手（右手掌心朝下。左手掌心朝上）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/151650.jpg)
+- 后坐下捋
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/151707.jpg)
+- 左转摆手（左手掌心朝下。右手掌心朝上）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/151706.jpg)
+- 收脚撤成弓步摆手
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/151712.jpg)
+- 后坐下捋
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/151716.jpg)
+
 ##### 20. 左移步左挤势
+
+- 侧移步搭手（左手指尖朝前，拇指朝上。右手贴在左手腕脉处）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110045.jpg)
+- 捻后脚踏实（手不动）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110245.jpg)
+- 倒重心震脚左挤
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110248.jpg)
 
 ##### 21. 左移步双按势
 
+- 转体摆手（两手掌心朝上，左手位于正左方，右手位于右前方）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110251.jpg)
+- 上步合手（双手位于肩前，重心在后）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110254.jpg)
+- 踏实松胯
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110305.jpg)
+- 跟步前推（两脚横向约距离 10cm，前后约距离 10cm）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110307.jpg)
+
 ##### 22. 右移步右挤势
+
+- 捻右脚，扣左脚（身体朝前，手不动）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110313.jpg)
+- 侧移步搭手（右手指尖朝前，拇指朝上。左手贴在右手腕脉处）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110317.jpg)
+- 捻后脚踏实（手不动）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110328.jpg)
+- 倒重心震脚右挤
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110331.jpg)
 
 ##### 23. 右移步双按势
 
+- 转体摆手（两手掌心朝上，右手位于正右方，左手位于左前方）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110335.jpg)
+- 上步合手（双手位于肩前，重心在后）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110345.jpg)
+- 踏实松胯
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110356.jpg)
+- 跟步前推（两脚横向约距离 10cm，前后约距离 10cm）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110400.jpg)
+
 ##### 24. 退步左右採势
 
+###### 左退步採势
+
+- 捻左脚，扣右脚（身体朝前，手不动）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110419.jpg)
+- 撤步摆手握拳
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110427.jpg)
+- 后坐下採
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110432.jpg)
+
+###### 右退步採势
+
+- 左转摆手（斜后方）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110441.jpg)
+- 收脚撤成弓步摆手握拳
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110452.jpg)
+- 后坐下採
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110457.jpg)
+
 ##### 25. 进步左右挒势
+
+###### 左上步挒势
+
+- 收脚摆手（左手斜朝下，右手朝上）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110515.jpg)
+- 左转上步挒手（重心在后）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110520.jpg)
+
+###### 右上步挒势
+
+- 踏实收脚摆手（右手斜朝下，左手朝上）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110526.jpg)
+- 右转上步挒手（重心在后）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/110530.jpg)
 
 ##### 26. 右移步右肘势
 
@@ -227,15 +304,28 @@ export default () => (
   <>
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video01.mp4"
-      title="八法五步01"
+      title="1势~17势"
+      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月2日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video02.mp4"
-      title="八法五步02"
+      title="18势-19势"
+      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月3日' }}
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/bafawubu/video03.mp4"
+      title="20势-23势"
+      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月4日' }}
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/bafawubu/video04.mp4"
+      title="24势-25势"
+      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月5日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/oldVideo.mp4"
       title="八法五步-全"
+      videoInfo={{}}
     />
   </>
 );

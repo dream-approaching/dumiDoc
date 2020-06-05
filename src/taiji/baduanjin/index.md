@@ -3,14 +3,14 @@ group:
   title: 太极
 ---
 
-## 八段锦
+## 健身气功八段锦
 
 ### 上课礼仪
 
 - 立正
 - 敬礼
-- 师父好
-- 礼毕（师父先落下，学生再落下）
+- 老师好
+- 礼毕（老师先落下，学生再落下）
 
 ### 预备式
 
@@ -21,6 +21,7 @@ group:
 - 项自然竖直，松肩坠肘
 - 十个指肚轻轻贴在大腿外侧，虎口圆，掌心空
 - 松腰松胯，松膝松踝
+- 十指抓地
 
 1. 并步站立
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103033.jpg)
@@ -259,10 +260,12 @@ export default () => (
     <Video
       url="http://taiji.zhengjinshou.cn/baduanjin/video01.mp4"
       title="八段锦01"
+      videoInfo={{ shotName: '郑金寿', shotTime: '2020年4月30日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/baduanjin/video02.mp4"
       title="八段锦02"
+      videoInfo={{ shotName: '郑金寿', shotTime: '2020年5月1日' }}
     />
   </>
 );
