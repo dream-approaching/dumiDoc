@@ -21,7 +21,7 @@ group:
 - 项自然竖直，松肩坠肘
 - 十个指肚轻轻贴在大腿外侧，虎口圆，掌心空
 - 松腰松胯，松膝松踝
-- 十指抓地
+- 十个脚趾轻轻抓地
 
 1. 并步站立
    ![image](http://taiji.zhengjinshou.cn/baduanjin/103033.jpg)

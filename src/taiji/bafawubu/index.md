@@ -282,11 +282,49 @@
 
 ##### 26. 右移步右肘势
 
+- 右转上步摆手（右手握拳在腰间。左手侧立掌，腕与肩同高）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/133922.jpg)
+- 松垮上步
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/133929.jpg)
+- 踏实提拳
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/133942.jpg)
+- 抬肘
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134026.jpg)
+- 上步震脚滚肘（肘低于肩）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134032.jpg)
+
 ##### 27. 右移步右靠势
+
+- 松垮上步落拳（左手在右上臂的上方。右手握拳，拳面朝下，在膝上方）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134038.jpg)
+- 踏实松垮下坐（半马步）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134043.jpg)
+- 重心前移靠
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134048.jpg)
+- 重心后移
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134053.jpg)
 
 ##### 28. 左移步左肘势
 
+- 扣右脚，左转摆手（左手握拳在腰间。左手腕与肩同高，拇指朝上）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134058.jpg)
+- 松垮踏实提拳
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134102.jpg)
+- 抬肘
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134107.jpg)
+- 上步震脚滚肘（肘低于肩）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134111.jpg)
+
 ##### 29. 左移步左靠势
+
+- 松垮上步落拳（右手在左上臂的上方。左手握拳，拳面朝下，在膝上方）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134116.jpg)
+- 踏实松垮下坐（半马步）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134219.jpg)
+- 重心前移靠
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134126.jpg)
+- 重心后移
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/134132.jpg)
 
 ##### 30. 中定左右独立势
 
@@ -305,22 +343,27 @@ export default () => (
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video01.mp4"
       title="1势~17势"
-      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月2日' }}
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月2日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video02.mp4"
       title="18势-19势"
-      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月3日' }}
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月3日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video03.mp4"
       title="20势-23势"
-      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月4日' }}
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月4日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/video04.mp4"
       title="24势-25势"
-      videoInfo={{ shotName: '郑金寿 陈姨', shotTime: '2020年6月5日' }}
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月5日' }}
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/bafawubu/video05.mp4"
+      title="26势-29势"
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月6日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/oldVideo.mp4"
