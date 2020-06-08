@@ -7,7 +7,7 @@
 
 - 手型：掌 拳 勾手
 - 手法：立掌 推掌 直拳 摆拳 勾拳等
-- 步型：并步 平行步 马步 丁步 虚步 弓步 侧弓步
+- 步型：并步 平行步 马步 半马步 偏马步 丁步 虚步 弓步 侧弓步
 - 步法：上步 撤步 等
 
 ### 拳谱
@@ -206,14 +206,14 @@
 
 - 侧移步搭手（左手指尖朝前，拇指朝上。右手贴在左手腕脉处）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110045.jpg)
-- 捻后脚踏实（手不动）
+- 碾后脚踏实（手不动）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110245.jpg)
 - 倒重心震脚左挤
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110248.jpg)
 
 ##### 21. 左移步双按势
 
-- 转体摆手（两手掌心朝上，左手位于正左方，右手位于右前方）
+- 翻掌分掌（两手掌心朝上，左手位于正左方，右手位于右前方）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110251.jpg)
 - 上步合手（双手位于肩前，重心在后）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110254.jpg)
@@ -224,18 +224,18 @@
 
 ##### 22. 右移步右挤势
 
-- 捻右脚，扣左脚（身体朝前，手不动）
+- 碾右脚，扣左脚（身体朝前，手不动）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110313.jpg)
 - 侧移步搭手（右手指尖朝前，拇指朝上。左手贴在右手腕脉处）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110317.jpg)
-- 捻后脚踏实（手不动）
+- 碾后脚踏实（手不动）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110328.jpg)
 - 倒重心震脚右挤
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110331.jpg)
 
 ##### 23. 右移步双按势
 
-- 转体摆手（两手掌心朝上，右手位于正右方，左手位于左前方）
+- 翻掌分掌（两手掌心朝上，右手位于正右方，左手位于左前方）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110335.jpg)
 - 上步合手（双手位于肩前，重心在后）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110345.jpg)
@@ -248,7 +248,7 @@
 
 ###### 左退步採势
 
-- 捻左脚，扣右脚（身体朝前，手不动）
+- 碾左脚，扣右脚（身体朝前，手不动）
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110419.jpg)
 - 撤步摆手握拳
   ![image](http://taiji.zhengjinshou.cn/bafawubu/110427.jpg)
@@ -328,9 +328,42 @@
 
 ##### 30. 中定左右独立势
 
+- 重心右移 扣左脚
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111351.jpg)
+- 收右脚（两手放在两胯外侧）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111356.jpg)
+- 提左脚，挑掌（肘膝相合）
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111406.jpg)
+- 坐腕推掌
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111408.jpg)
+- 落脚
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111412.jpg)
+- 翻掌
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111414.jpg)
+- 左手下採 右手上挑
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111420.jpg)
+- 坐腕推掌
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111423.jpg)
+
 ##### 31. 十字手
 
+- 落脚碾脚 两脚平行
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111430.jpg)
+- 两腕交叉，掌心朝内，与肩同高
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111443.jpg)
+
 ##### 32. 收势
+
+- 翻掌
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111448.jpg)
+- 分掌
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111451.jpg)
+- 手落身起 落于大腿前
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111456.jpg)
+- 手落于大腿外侧
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111509.jpg)
+- 收脚并步还原
+  ![image](http://taiji.zhengjinshou.cn/bafawubu/111517.jpg)
 
 ### 视频
 
@@ -364,6 +397,11 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/bafawubu/video05.mp4"
       title="26势-29势"
       videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月6日' }}
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/bafawubu/video06.mp4"
+      title="30势-32势"
+      videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月7日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/bafawubu/oldVideo.mp4"
