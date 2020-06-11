@@ -40,10 +40,10 @@ export default ({
         size="small"
         column={{ xxl: 3, xl: 3, lg: 3, md: 1, sm: 1, xs: 1 }}
       >
-        <Descriptions.Item className={styles.descItem} label="演练者">
+        <Descriptions.Item className={styles.descItem} label="老师">
           {videoInfo.name || '刘建成'}
         </Descriptions.Item>
-        <Descriptions.Item className={styles.descItem} label="拍摄者">
+        <Descriptions.Item className={styles.descItem} label="拍摄">
           {videoInfo.shotName || '-'}
         </Descriptions.Item>
         <Descriptions.Item className={styles.descItem} label="拍摄时间">
