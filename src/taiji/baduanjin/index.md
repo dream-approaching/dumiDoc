@@ -259,13 +259,18 @@ export default () => (
   <>
     <Video
       url="http://taiji.zhengjinshou.cn/baduanjin/video01.mp4"
-      title="八段锦01"
+      title="健身气功八段锦(前半)"
       videoInfo={{ shotName: '郑金寿', shotTime: '2020年4月30日' }}
     />
     <Video
       url="http://taiji.zhengjinshou.cn/baduanjin/video02.mp4"
-      title="八段锦02"
+      title="健身气功八段锦(后半)"
       videoInfo={{ shotName: '郑金寿', shotTime: '2020年5月1日' }}
+    />
+    <Video
+      url="http://taiji.zhengjinshou.cn/baduanjin/baduanjin.mp4"
+      title="健身气功八段锦(全)"
+      videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月11日' }}
     />
   </>
 );
