@@ -404,9 +404,9 @@ export default () => (
       videoInfo={{ shotName: '郑金寿 陈年秀', shotTime: '2020年6月7日' }}
     />
     <Video
-      url="http://taiji.zhengjinshou.cn/bafawubu/oldVideo.mp4"
+      url="http://taiji.zhengjinshou.cn/bafawubu/videoAll_f.mp4"
       title="八法五步-全"
-      videoInfo={{}}
+      videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月12日' }}
     />
   </>
 );

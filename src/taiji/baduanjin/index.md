@@ -272,6 +272,11 @@ export default () => (
       title="健身气功八段锦(全)"
       videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月11日' }}
     />
+    <Video
+      url="http://taiji.zhengjinshou.cn/baduanjin/videoAll.mp4"
+      title="集体演练"
+      videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月12日' }}
+    />
   </>
 );
 ```
