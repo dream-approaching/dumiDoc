@@ -80,3 +80,19 @@
 #### 开合桩
 
 #### 升降桩
+
+### 视频
+
+```tsx | inline
+import React from 'react';
+import { Video } from 'dumi-lib';
+
+export default () => (
+  <>
+    <Video
+      url="http://taiji.zhengjinshou.cn/warmup/video.mp4"
+      videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月14日' }}
+    />
+  </>
+);
+```

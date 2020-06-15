@@ -413,6 +413,11 @@ export default () => (
       title="八法五步-背面"
       videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月12日' }}
     />
+    <Video
+      url="http://taiji.zhengjinshou.cn/bafawubu/video_all.mp4"
+      title="集体演练"
+      videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月14日' }}
+    />
   </>
 );
 ```
