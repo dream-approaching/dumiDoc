@@ -1,3 +1,7 @@
+---
+order: 0
+---
+
 ## 首页
 
 - [健身气功八段锦](/taiji/baduanjin)
