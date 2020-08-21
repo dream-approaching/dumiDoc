@@ -42,22 +42,22 @@ export default () => (
   <>
     <Video
       title="正常"
-      url="http://taiji.zhengjinshou.cn/83/lanzhayi/video_normal.mp4"
+      url="http://taiji.zhengjinshou.cn/83/danbian/video_normal.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
     />
     <Video
       title="分解动作"
-      url="http://taiji.zhengjinshou.cn/83/lanzhayi/video_number.mp4"
+      url="http://taiji.zhengjinshou.cn/83/danbian/video_number.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
     />
     <Video
       title="动作要领"
-      url="http://taiji.zhengjinshou.cn/83/lanzhayi/video_detail.mp4"
+      url="http://taiji.zhengjinshou.cn/83/danbian/video_detail.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
     />
     <Video
       title="攻防含义"
-      url="http://taiji.zhengjinshou.cn/83/lanzhayi/video_attack.mp4"
+      url="http://taiji.zhengjinshou.cn/83/danbian/video_attack.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
     />
   </>
