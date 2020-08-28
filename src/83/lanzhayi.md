@@ -36,7 +36,7 @@ order: 2
 9. 松胯踏实(脚尖 45° 方向)
    ![image](http://taiji.zhengjinshou.cn/83/lanzhayi/151921.jpg)
 
-10. 裆走下弧倒重心靠上去
+10. 裆走下弧倒重心螺旋靠上去，肩胯同时靠
     ![image](http://taiji.zhengjinshou.cn/83/lanzhayi/151927.jpg)
 
 11. 胸向左转，重心前移，扣左脚，左手顺缠，右手逆缠加掤劲

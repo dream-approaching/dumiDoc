@@ -23,7 +23,7 @@ order: 4
    ![image](http://taiji.zhengjinshou.cn/83/danbian/105020.jpg)
 7. 踏实松胯
    ![image](http://taiji.zhengjinshou.cn/83/danbian/105024.jpg)
-8. 重心前移，裆走下弧倒重心，边靠边扣右脚尖
+8. 重心前移，裆走下弧倒重心螺旋靠上去，肩胯同时靠，边靠边扣右脚尖
    ![image](http://taiji.zhengjinshou.cn/83/danbian/105041.jpg)
 9. 重心后移，穿掌坐腕在胸前
    ![image](http://taiji.zhengjinshou.cn/83/danbian/105049.jpg)

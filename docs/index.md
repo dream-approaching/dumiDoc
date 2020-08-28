@@ -14,3 +14,4 @@ order: 0
   - [六封四闭](/83/liufengsibi)
   - [单鞭](/83/danbian)
   - [白鹤亮翅 & 斜行 & 初收 & 前蹚拗步](/83/baiheliangchi)
+  - [第二斜行 & 再收 & 前蹚拗步 & 掩手肱捶 & 十字手](/83/xiexing2)

@@ -31,7 +31,7 @@ order: 5
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180304.jpg)
 9. 松胯踏实
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180308.jpg)
-10. 裆走下弧倒重心靠上去
+10. 裆走下弧倒重心螺旋靠上去，肩胯同时靠
     ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180312.jpg)
 11. 右手翻掌加掤劲
     ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180316.jpg)
@@ -108,7 +108,7 @@ order: 5
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180611.jpg)
 9. 里扣踏实
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180614.jpg)
-10. 松胯下沉，裆走下弧倒重心靠上去
+10. 松胯下沉，裆走下弧倒重心螺旋靠上去，肩胯同时靠
     ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180617.jpg)
 11. 加掤劲，胸向右转，走肩走肘走手
     ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180621.jpg)
