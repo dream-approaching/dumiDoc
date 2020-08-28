@@ -40,17 +40,17 @@ export default () => (
     <Video
       title="正常"
       url="http://taiji.zhengjinshou.cn/83/xiexing2/video_normal.mp4"
-      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
+      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月29日' }}
     />
     <Video
       title="分解动作"
       url="http://taiji.zhengjinshou.cn/83/xiexing2/video_number.mp4"
-      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
+      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月29日' }}
     />
     <Video
       title="动作要领"
       url="http://taiji.zhengjinshou.cn/83/xiexing2/video_detail.mp4"
-      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
+      videoInfo={{ shotName: '吴少华', shotTime: '2019年11月29日' }}
     />
   </>
 );
