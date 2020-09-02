@@ -71,7 +71,9 @@ const withPhotoSwipe = Component => {
         };
 
         item.msrc = imgEl.getAttribute('src');
-
+        if (imgEl.parentNode.innerText) {
+          item.title = `${i + 1}、${imgEl.parentNode.innerText}`;
+        }
         item.el = imgEl; // save link to element for getThumbBoundsFn
         items.push(item);
       }
@@ -162,7 +164,10 @@ const withPhotoSwipe = Component => {
                 ></button>
 
                 <div className="pswp__caption">
-                  <div className="pswp__caption__center"></div>
+                  <div
+                    style={{ fontSize: 15, marginBottom: 10 }}
+                    className="pswp__caption__center"
+                  ></div>
                 </div>
               </div>
             </div>
