@@ -73,7 +73,7 @@ order: 5
 
 1. 胸向右转，两手下落，两指尖相对，两臂掤圆
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180441.jpg)
-2. 胸向左转，两手网上掤，身体往下沉
+2. 胸向左转，两手往上掤，身体往下沉
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180445.jpg)
 3. 胸向右转，两掌根相合在腹前
    ![image](http://taiji.zhengjinshou.cn/83/baiheliangchi/180449.jpg)

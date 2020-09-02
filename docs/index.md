@@ -16,3 +16,4 @@ order: 0
   - [白鹤亮翅 & 斜行 & 初收 & 前蹚拗步](/83/baiheliangchi)
   - [第二斜行 & 再收 & 前蹚拗步 & 掩手肱捶 & 十字手](/83/xiexing2)
   - [中盘](/83/zhongpan)
+  - [闪通背](/83/shantongbei)
