@@ -9,6 +9,7 @@ order: 0
 - [太极八法五步](/bafawubu)
 - [内功心法](/inside)
 - [八十三式](/83)
+  - [预备式](/83/prepare)
   - [金刚捣碓](/83/jingangdaodui)
   - [懒扎衣](/83/lanzhayi)
   - [六封四闭](/83/liufengsibi)
