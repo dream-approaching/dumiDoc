@@ -2,11 +2,10 @@
 order: 10
 ---
 
-
 ## 中盘
+
 全套共有 2 个中盘。  
 分别于第 24 式、第 64 式
-
 
 ### 动作图解
 
@@ -34,32 +33,32 @@ order: 10
 8. 走肩走肘，提膝走手，右手在额头上方，左手在左膝上方
    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142641.jpg)
 
-9. 震脚，两脚平行，相距约10-20cm,掌心相对，与腹同高
+9. 震脚，两脚平行，相距约 10-20cm,掌心相对，与腹同高
    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142645.jpg)
 
 10. 下蹬右引
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142649.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142649.jpg)
 
 11. 踏实松胯，重心左移，两肘掤开，两掌相对
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142654.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142654.jpg)
 
 12. 两手背相对，戳掌
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142659.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142659.jpg)
 
 13. 指尖往上挑
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142709.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142709.jpg)
 
 14. 合手，两臂撑圆
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142713.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142713.jpg)
 
 15. 挒开，胸向右转，右手在右膝的外侧，左手在左眼的前方，视线看前面
-   ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142718.jpg)
+    ![image](http://taiji.zhengjinshou.cn/83/zhongpan/142718.jpg)
 
 ### 视频
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -83,6 +82,7 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/83/zhongpan/video_attack.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年10月27日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```

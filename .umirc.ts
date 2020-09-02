@@ -7,7 +7,7 @@ export default defineConfig({
   publicPath: '/dumiDoc/',
   scripts: ['https://v1.cnzz.com/z_stat.php?id=1278974410&web_id=1278974410'],
   styles: ['a[title=站长统计] { display: none; }'],
-  logo: '/images/logo.png',
-  favicon: '/images/logo.png',
+  logo: '/dumiDoc/images/logo.png',
+  favicon: '/dumiDoc/images/logo.png',
   // more config: https://d.umijs.org/config
 });

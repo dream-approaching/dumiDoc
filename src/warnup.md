@@ -89,7 +89,7 @@ order: 1
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -97,6 +97,7 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/warmup/video.mp4"
       videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月14日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```

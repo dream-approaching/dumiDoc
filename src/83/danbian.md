@@ -36,7 +36,7 @@ order: 4
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -60,6 +60,7 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/83/danbian/video_attack.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月22日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```

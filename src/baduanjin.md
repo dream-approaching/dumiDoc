@@ -252,7 +252,7 @@ order: 10
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -276,6 +276,7 @@ export default () => (
       title="集体演练"
       videoInfo={{ shotName: '郑金寿 刘建成', shotTime: '2020年6月12日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```

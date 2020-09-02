@@ -75,7 +75,7 @@ group:
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -114,6 +114,7 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/83/jingangdaodui/video3_detail.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年10月22日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```

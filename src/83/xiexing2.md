@@ -3,6 +3,7 @@ order: 6
 ---
 
 ## 第二斜行 再收 前蹚拗步 掩手肱捶 十字手
+
 - 第 11 式：第二斜行
 - 第 12 式：再收
 - 第 13 式：前蹚拗步
@@ -10,7 +11,6 @@ order: 6
 - 第 15 式：十字手
 
 第二斜行，再收，前蹚拗步与前面三式斜行，初收，前蹚拗步相似，只有衔接动作有些不同
-
 
 ### 第二斜行 动作图解
 
@@ -33,7 +33,7 @@ order: 6
 
 ```tsx | inline
 import React from 'react';
-import { Video } from 'dumi-lib';
+import { Video, PhotoSwiper } from 'dumi-lib';
 
 export default () => (
   <>
@@ -52,6 +52,7 @@ export default () => (
       url="http://taiji.zhengjinshou.cn/83/xiexing2/video_detail.mp4"
       videoInfo={{ shotName: '吴少华', shotTime: '2019年11月29日' }}
     />
+    <PhotoSwiper />
   </>
 );
 ```
