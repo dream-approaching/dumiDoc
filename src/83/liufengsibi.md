@@ -10,40 +10,40 @@ order: 3
 ### 动作图解
 
 1. 两手逆缠加掤劲
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152911.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152911.jpg)
 
 2. 顺缠捋下来，捋到腹前再靠上去
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152919.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152919.jpg)
 
 3. 两腕相贴在左腹前
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152923.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152923.jpg)
 
 4. 双逆缠，略下沉
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152926.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152926.jpg)
 
 5. 胸向右转，先走肘
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152931.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152931.jpg)
 
 6. 再走手
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152934.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152934.jpg)
 
 7. 下塌后捋，右手在胸前中线，左手在左眼前方，松肩坠肘
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152937.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152937.jpg)
 
 8. 胸向左转，腕开肘合
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152948.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152948.jpg)
 
 9. 胸向右转，旋腕翻掌
-   ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152954.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152954.jpg)
 
 10. 胸向左转，两手放在肩的上方
-    ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/152958.jpg)
+    ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/152958.jpg)
 
 11. 松胯，含胸，裆走后弧，手走下弧推出去，两虎口相对，两掌根相合，在右胯前
-    ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/153009.jpg)
+    ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/153009.jpg)
 
 12. 双逆缠，往前搓
-    ![image](http://taiji.zhengjinshou.cn/83/liufengsibi/153034.jpg)
+    ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/liufengsibi/153034.jpg)
 
 ### 视频
 

@@ -10,27 +10,27 @@ order: 4
 ### 动作图解
 
 1. 双顺缠，两手螺旋穿上去，左手中指领劲，与对方喉同高，右手小指在左手小臂内侧，右肘要掤起来
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/104955.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/104955.jpg)
 2. 胸向左转，旋腕擒拿压肘，肘和掌心相合
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105000.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105000.jpg)
 3. 先走肘，再走手，腕跟肩同高，指尖斜朝后
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105006.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105006.jpg)
 4. 胸向左转，眼往左看
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105010.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105010.jpg)
 5. 边提边沉，肘膝相合
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105016.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105016.jpg)
 6. 约偏后蹬出去
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105020.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105020.jpg)
 7. 踏实松胯
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105024.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105024.jpg)
 8. 重心前移，裆走下弧倒重心螺旋靠上去，肩胯同时靠，边靠边扣右脚尖
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105041.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105041.jpg)
 9. 重心后移，穿掌坐腕在胸前
-   ![image](http://taiji.zhengjinshou.cn/83/danbian/105049.jpg)
+   ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105049.jpg)
 10. 加掤劲，胸往左转，走肩走肘走手
-    ![image](http://taiji.zhengjinshou.cn/83/danbian/105056.jpg)
+    ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105056.jpg)
 11. 下塌外捻，勾手掤圆，前弓后蹬
-    ![image](http://taiji.zhengjinshou.cn/83/danbian/105106.jpg)
+    ![image](http://taiji.zhengjinshou.cn/other/loading.png#imgId=83/danbian/105106.jpg)
 
 ### 视频
 
