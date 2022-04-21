@@ -23,6 +23,7 @@ export default ({
   poster?: string;
   videoInfo?: videoInfo;
 }) => {
+  const classRandom = `player-${Math.ceil(Math.random() * 10000)}`;
   const [isShow, setIsShow] = useState(false);
 
   // 利用 IntersectionObserver 监听元素是否出现在视口
@@ -41,7 +42,7 @@ export default ({
   );
 
   useEffect(() => {
-    const playerDom = document.querySelector(`.${title}-player`);
+    const playerDom = document.querySelector(`.${classRandom}`);
     lazyload.observe(playerDom.children[0]); // 添加需要被观察的元素。
     return () => {
       setIsShow(true);
@@ -52,12 +53,12 @@ export default ({
   return (
     <>
       <Card
-        headStyle={{ padding: 0, marginTop: 600 }}
+        headStyle={{ padding: 0 }}
         bodyStyle={{ padding: 0 }}
         bordered={false}
         title={title}
       >
-        <Player poster={poster} className={`${title}-player`}>
+        <Player poster={poster} className={`${classRandom}`}>
           {isShow && <source src={url} />}
           <BigPlayButton className="playBtn" position="center" />
           <LoadingSpinner />
